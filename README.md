@@ -1,6 +1,8 @@
-SyncInfluence: AI-Powered Social Media Management for Nano Influencers 🚀✨
+- SyncInfluence: AI-Powered Social Media Management for Nano Influencers 🚀✨
+
 Welcome to SyncInfluence! We're here to revolutionize social media management for nano influencers, small businesses, and artists. Our unique platform harnesses the power of AI to streamline account management and create personalized systems tailored just for you! 🎉
-Features 🌟
+
+- Features 🌟
 AI-Automated Social Media Handler 🤖
 Say goodbye to the hassle of managing your accounts! Our AI-powered social media handler automates content creation, scheduling, audience engagement, and performance tracking. Focus on what you love—creating amazing content and building relationships! 💖
 Personalized AI System 🎨
